@@ -62,7 +62,7 @@ p {
   margin: 0 5px;
   text-decoration: none;
   color: black;
-  size: 20px;
+  resize: 20px;
 }
 
 
@@ -71,8 +71,6 @@ p {
 .small {
 float: left;
 width: 270px;
-shape-outside: url(..images/lone-starfish.jpg);
-shape-margin: 15px;
 margin-right: 10px;
 margin-left: 10px;
 margin-bottom: 10px;
